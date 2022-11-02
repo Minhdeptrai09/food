@@ -1,0 +1,43 @@
+/* * {
+  text-align: center;
+
+  
+} */
+
+body{
+  background-color: aquamarine;
+  height: 100%;
+}
+
+.App-header {
+  flex-direction: column;
+  
+}
+
+
+.mylink{
+  margin: 100px;
+}
+
+.App-header .Header {
+  text-align: center;
+  z-index: 10;
+  font-size: 30px;
+  justify-content: center;
+  background-color: aqua;
+  opacity: 80%;
+  height: 70px;
+}
+
+
+
+
+
+
+.App-header .Contener{
+  width: 600px;
+  margin: 100px auto;
+  
+  background-color: salmon;
+
+}

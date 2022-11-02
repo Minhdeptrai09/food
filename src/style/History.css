@@ -1,0 +1,9 @@
+.History {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.History .History_header{
+    border-radius: 10px;
+    background-color: salmon;
+}

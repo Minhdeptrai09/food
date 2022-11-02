@@ -1,0 +1,48 @@
+.list_todo{
+    background-color: aquamarine;
+}
+.list_todo_create{
+    border-radius: 10px;
+    background-color: salmon;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.list_todo_contenrt{
+    background-color: salmon;
+    /* margin-top: 50px; */
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px 0;
+}
+
+.list_todo_contenrt h2{
+    text-align: center;
+}
+ 
+
+
+
+.todo-child {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+button{
+    cursor: pointer;
+    background-color: salmon;
+    border-radius: 5px;
+    border: 1px solid rgb(57, 57, 48);
+    width: 65px;
+    margin: 5px 10px;
+}
+
+button:hover{
+    opacity: 70%;
+    background-color: brown;
+}
+
+
+
+
+
